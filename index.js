@@ -40,4 +40,5 @@ server.listen(PORT, HOST, () => {
   console.log(
     'Server is Listening at Port ' + PORT + ' and the HOST is ' + HOST
   )
+  console.log('Click Here to Preview: ' + `http://${HOST}:${PORT}`)
 })
