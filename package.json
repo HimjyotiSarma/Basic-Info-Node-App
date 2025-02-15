@@ -1,0 +1,16 @@
+{
+  "name": "basicinfosite",
+  "version": "1.0.0",
+  "description": "Basic Information Site",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
